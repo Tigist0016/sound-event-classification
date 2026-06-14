@@ -41,15 +41,12 @@ Applied only to training data:
 - Time stretching
 
 ## 📈 Results
-
 | Model | Accuracy |
 |------ |----------|
-| MFCC + SVM | ~50.3% |
+| MFCC + SVM | ~63.75% |
 | CNN + Mel | ~57.3% |
 | CRNN + Mel  | ⭐ ~68.9% |
 | CRNN + Mel + Augmentation | ~65.7% |
-
----
 
 ## 🧠 Best Model
 The best performance was achieved using a CRNN model with Mel Spectrogram features reaching approximately **68.3% accuracy**.
